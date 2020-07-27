@@ -1,0 +1,2 @@
+[main] 2020/06/17 15:38:29 [anonymous] ERROR  - org.jdom.input.JDOMParseException: Error on line 1: Invalid byte 3 of 3-byte UTF-8 sequence. 
+[main] 2020/06/17 15:39:49 [anonymous] ERROR  - org.jdom.input.JDOMParseException: Error on line 1: Invalid byte 3 of 3-byte UTF-8 sequence. 

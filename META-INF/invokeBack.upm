@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module>
+	<public>
+		<component>
+			<interface>nc.gs.itf.ItfInvokeBackWord</interface>
+			<implementation>nc.bs.gs.impl.InvokeBackWorkImpl</implementation>
+			<extension class="nc.uap.ws.deploy.OxbWSExtensionProcessor">
+				<wsdl>/nc/gs/itf/ItfInvokeBackWord.wsdl</wsdl>
+				<address>/nc.gs.itf.ItfInvokeBackWord</address>
+			</extension>
+		</component>
+	</public>
+	<private>
+	</private>
+</module>
